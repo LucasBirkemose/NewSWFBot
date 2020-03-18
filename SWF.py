@@ -202,8 +202,3 @@ async def clear(ctx, amount=100):
 
 
 
-
-
-
-
-bot.run('NjY5NTQwMzI2NDI3NDU5NTg1.XmvnHA.ibAmD_22gY1GMAzpMpqHljkq2tQ')
